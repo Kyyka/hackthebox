@@ -1,5 +1,5 @@
 # Hack The Box
-List of machines and challenges that I have solved from hackthebox.eu\
+List of machines and challenges that I have solved from the hackthebox.eu\
 \
 :heavy_check_mark: = sign of completion \
 :star2: = all challenges solved
