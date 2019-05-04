@@ -1,8 +1,5 @@
 # Hack The Box
 List of machines and challenges that I have solved from the hackthebox.eu\
-\
-:heavy_check_mark: = sign of completion \
-:star2: = all challenges solved
 
 <!--ts-->
    * [Hack The Box](#hack-the-box)
@@ -16,8 +13,10 @@ List of machines and challenges that I have solved from the hackthebox.eu\
          * [Misc :star2:](#misc-star2)
          * [Forensics](#forensics)
          * [Mobile](#mobile)
-
 <!--te-->
+
+:heavy_check_mark: = sign of completion \
+:star2: = all challenges solved
 
 ## Machines
 Note: Machines are not in any particular order.
