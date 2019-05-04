@@ -1,23 +1,43 @@
 # Hack The Box
-List of nachines and challenges that I have solved from hackthebox.eu
+List of machines and challenges that I have solved from hackthebox.eu\
+\
+:heavy_check_mark: = sign of completion \
+:star2: = all challenges solved
+
+<!--ts-->
+   * [Hack The Box](#hack-the-box)
+      * [Machines](#machines)
+      * [Challenges](#challenges)
+         * [Reversing](#reversing)
+         * [Crypto](#crypto)
+         * [Stego](#stego)
+         * [Pwn](#pwn)
+         * [Web :star2:](#web-star2)
+         * [Misc :star2:](#misc-star2)
+         * [Forensics](#forensics)
+         * [Mobile](#mobile)
+
+<!--te-->
 
 ## Machines
+Note: Machines are not in any particular order.
+
 | Machine  | User | Root |
 | :---          |      :---:       |      :---:       |
-| Jerry  | x  | x |
-| Active  | x  | x |
-| Carrier  | x  | x |
-| Sunday  | x  | x |
-| Curling  | x  | x |
-| Lightweight  | x  | x |
-| Netmon  | x  | x |
-| Irked  | x  | x |
-| Help  | x  | x |
-| Chaos  | x  | x |
-| Teacher  | x  | x |
-| Vault  | x  | x |
-| FriendZone  | x  | x |
-| Bastion  | x  | x |
+| Jerry  | :heavy_check_mark: | :heavy_check_mark: |
+| Active  | :heavy_check_mark: | :heavy_check_mark: |
+| Carrier  | :heavy_check_mark: | :heavy_check_mark: |
+| Sunday  | :heavy_check_mark: | :heavy_check_mark: |
+| Curling  | :heavy_check_mark: | :heavy_check_mark: |
+| Lightweight  | :heavy_check_mark: | :heavy_check_mark: |
+| Netmon  | :heavy_check_mark: | :heavy_check_mark: |
+| Irked  | :heavy_check_mark: | :heavy_check_mark: |
+| Help  | :heavy_check_mark: | :heavy_check_mark: |
+| Chaos  | :heavy_check_mark: | :heavy_check_mark: |
+| Teacher  | :heavy_check_mark: | :heavy_check_mark: |
+| Vault  | :heavy_check_mark: | :heavy_check_mark: |
+| FriendZone  | :heavy_check_mark: | :heavy_check_mark: |
+| Bastion  | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Challenges
 ### Reversing
@@ -32,20 +52,20 @@ List of nachines and challenges that I have solved from hackthebox.eu
 | Pseudo |  |
 | Impossible Password |  |
 | Find The Secret Flag |  |
-| Snake | x |
+| Snake | :heavy_check_mark: |
 
 ### Crypto
 | Name | Completed |
 | :---          |      :---:       |
-| Weak RSA | x |
-| Sick Teacer | x |
-| Classic, yet complicated! | x |
+| Weak RSA | :heavy_check_mark: |
+| Sick Teacer | :heavy_check_mark: |
+| Classic, yet complicated! | :heavy_check_mark: |
 | Infinite Descent |  |
-| Deceitful Batman | x |
+| Deceitful Batman | :heavy_check_mark: |
 | Ebola Virus |  |
-| You Can Do It! | x |
-| Brainy's Cipher | x |
-| Keys | x |
+| You Can Do It! | :heavy_check_mark: |
+| Brainy's Cipher | :heavy_check_mark: |
+| Keys | :heavy_check_mark: |
 | Mission Impossible |  |
 | Please, don't share! |  |
 
@@ -53,21 +73,21 @@ List of nachines and challenges that I have solved from hackthebox.eu
 
 | Name | Completed |
 | :---          |      :---:       |
-| Raining Blood | x |
+| Raining Blood | :heavy_check_mark: |
 | Monstrosity |  |
 | BitsNBytes |  |
-| Widescreen | x |
-| Hackerman | x |
-| Hidden in Colors | x |
-| Milkshake | x |
-| Digital Cube | x |
-| Forest | x |
-| Da Vinci | x |
-| Beatles | x |
-| Unified | x |
-| Pusheen Loves Graphs | x |
-| Retro | x |
-| Sensless Behaviour | x |
+| Widescreen | :heavy_check_mark: |
+| Hackerman | :heavy_check_mark: |
+| Hidden in Colors | :heavy_check_mark: |
+| Milkshake | :heavy_check_mark: |
+| Digital Cube | :heavy_check_mark: |
+| Forest | :heavy_check_mark: |
+| Da Vinci | :heavy_check_mark: |
+| Beatles | :heavy_check_mark: |
+| Unified | :heavy_check_mark: |
+| Pusheen Loves Graphs | :heavy_check_mark: |
+| Retro | :heavy_check_mark: |
+| Sensless Behaviour | :heavy_check_mark: |
 | Not Art |  |
 | Massacre |  |
 
@@ -83,30 +103,30 @@ List of nachines and challenges that I have solved from hackthebox.eu
 ### Web :star2:
 | Name | Completed |
 | :---          |      :---:       |
-| HDC | x |
-| I know Mag1k | x |
-| Grammar | x |
-| Lernaean | x |
-| Cartographer | x |
+| HDC | :heavy_check_mark: |
+| I know Mag1k | :heavy_check_mark: |
+| Grammar | :heavy_check_mark: |
+| Lernaean | :heavy_check_mark: |
+| Cartographer | :heavy_check_mark: |
 
 ### Misc :star2:
 | Name | Completed |
 | :---          |      :---:       |
-| fs0ciety | x |
-| 0ld is g0ld | x |
-| Art | x |
-| Inferno | x |
-| misDIRection | x |
-| Eternal Loop | x |
-| Longbottom's Locker | x |
-| Blackhole | x |
+| fs0ciety | :heavy_check_mark: |
+| 0ld is g0ld | :heavy_check_mark: |
+| Art | :heavy_check_mark: |
+| Inferno | :heavy_check_mark: |
+| misDIRection | :heavy_check_mark: |
+| Eternal Loop | :heavy_check_mark: |
+| Longbottom's Locker | :heavy_check_mark: |
+| Blackhole | :heavy_check_mark: |
 
 ### Forensics
 | Name | Completed |
 | :---          |      :---:       |
 | Marshal in the Middle |  |
 | Deadly Arthropod |  |
-| Reminiscent | x |
+| Reminiscent | :heavy_check_mark: |
 | Keep Tryin' |  |
 | Blue Shadow |  |
 
