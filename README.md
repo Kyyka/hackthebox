@@ -123,8 +123,8 @@ Note: Machines are not in any particular order.
 ### Forensics
 | Name | Completed |
 | :---          |      :---:       |
-| Marshal in the Middle |  |
-| Deadly Arthropod |  |
+| Marshal in the Middle | :heavy_check_mark: |
+| Deadly Arthropod | :heavy_check_mark: |
 | Reminiscent | :heavy_check_mark: |
 | Keep Tryin' |  |
 | Blue Shadow |  |
